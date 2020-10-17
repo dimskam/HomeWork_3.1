@@ -11,7 +11,7 @@ import SwiftUI
 struct HomeWork_3_1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TraficLigthView()
         }
     }
 }

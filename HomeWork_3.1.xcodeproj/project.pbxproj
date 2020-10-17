@@ -8,18 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		C841465A2538445B00ADC7DB /* HomeWork_3_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84146592538445B00ADC7DB /* HomeWork_3_1App.swift */; };
-		C841465C2538445B00ADC7DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C841465B2538445B00ADC7DB /* ContentView.swift */; };
+		C841465C2538445B00ADC7DB /* TraficLigthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C841465B2538445B00ADC7DB /* TraficLigthView.swift */; };
 		C841465E2538445C00ADC7DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C841465D2538445C00ADC7DB /* Assets.xcassets */; };
 		C84146612538445C00ADC7DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C84146602538445C00ADC7DB /* Preview Assets.xcassets */; };
+		C841466B2538487500ADC7DB /* Singleligth.swift in Sources */ = {isa = PBXBuildFile; fileRef = C841466A2538487500ADC7DB /* Singleligth.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C84146562538445B00ADC7DB /* HomeWork_3.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork_3.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C84146592538445B00ADC7DB /* HomeWork_3_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork_3_1App.swift; sourceTree = "<group>"; };
-		C841465B2538445B00ADC7DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C841465B2538445B00ADC7DB /* TraficLigthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraficLigthView.swift; sourceTree = "<group>"; };
 		C841465D2538445C00ADC7DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C84146602538445C00ADC7DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C84146622538445C00ADC7DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C841466A2538487500ADC7DB /* Singleligth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singleligth.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +55,8 @@
 			isa = PBXGroup;
 			children = (
 				C84146592538445B00ADC7DB /* HomeWork_3_1App.swift */,
-				C841465B2538445B00ADC7DB /* ContentView.swift */,
+				C841465B2538445B00ADC7DB /* TraficLigthView.swift */,
+				C841466A2538487500ADC7DB /* Singleligth.swift */,
 				C841465D2538445C00ADC7DB /* Assets.xcassets */,
 				C84146622538445C00ADC7DB /* Info.plist */,
 				C841465F2538445C00ADC7DB /* Preview Content */,
@@ -138,7 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C841465C2538445B00ADC7DB /* ContentView.swift in Sources */,
+				C841465C2538445B00ADC7DB /* TraficLigthView.swift in Sources */,
+				C841466B2538487500ADC7DB /* Singleligth.swift in Sources */,
 				C841465A2538445B00ADC7DB /* HomeWork_3_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
